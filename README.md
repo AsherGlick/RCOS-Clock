@@ -44,13 +44,13 @@ Five visible digits (00:00.0)
 Green/Red bicolor LEDs
 Large enough to be seen from the other side of the room (~10m should be good)
 Buttons!
-Name       | Function
------------|---------------------------------------------------------------------------------------------------------
-+1 minute  | Adds one minute to the timer
--1 minute  | Subtracts one minute from the timer
-+5 minutes | Adds five minutes to the timer
-+10 minutes| Adds ten minutes to the timer
-undo       | Reverts the clock back to the state before the last button was pressed (including the start/stop button)
-redo       | redos whatever undo did
-start/stop | starts the count if stopped, stops the countdown if started
-reset clock| resets the clock to the last time. If pressed twice it resets to 0
+Name       | Function  
+-----------|---------------------------------------------------------------------------------------------------------  
++1 minute  | Adds one minute to the timer  
+-1 minute  | Subtracts one minute from the timer  
++5 minutes | Adds five minutes to the timer  
++10 minutes| Adds ten minutes to the timer  
+undo       | Reverts the clock back to the state before the last button was pressed (including the start/stop button)  
+redo       | redos whatever undo did  
+start/stop | starts the count if stopped, stops the countdown if started  
+reset clock| resets the clock to the last time. If pressed twice it resets to 0  
