@@ -45,7 +45,7 @@ Green/Red bicolor LEDs
 Large enough to be seen from the other side of the room (~10m should be good)
 Buttons!
 Name       | Function
------------|---------
+-----------|---------------------------------------------------------------------------------------------------------
 +1 minute  | Adds one minute to the timer
 -1 minute  | Subtracts one minute from the timer
 +5 minutes | Adds five minutes to the timer
