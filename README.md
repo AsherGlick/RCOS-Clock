@@ -43,7 +43,8 @@ Opensource + Open hardware logos
 Five visible digits (00:00.0)
 Green/Red bicolor LEDs
 Large enough to be seen from the other side of the room (~10m should be good)
-Buttons!
+Buttons!  
+
 Name       | Function  
 -----------|---------------------------------------------------------------------------------------------------------  
 +1 minute  | Adds one minute to the timer  
