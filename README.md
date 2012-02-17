@@ -10,8 +10,10 @@ Plan of Action
 Etching Method: Toner Transfer Method  
 Finish Method: I have had good results with this method from painting computer  
 cases but I am unsure how it will work on plexiglass/fiberglass  
+
 * matte finish for color
 * glossy coat for finial
+
 Logos will be etched in copper then protected when color is being added  
 Gloss will then cover the logo
 Sand Corners to slightly round the board
@@ -43,7 +45,7 @@ Green/Red bicolor LEDs
 Large enough to be seen from the other side of the room (~10m should be good)
 Buttons!
 Name       | Function
------------|------------
+-----------|---------
 +1 minute  | Adds one minute to the timer
 -1 minute  | Subtracts one minute from the timer
 +5 minutes | Adds five minutes to the timer
