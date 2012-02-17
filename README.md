@@ -7,19 +7,32 @@ techniques.
 
 Plan of Action
 --------------
-Etching Method: Toner Transfer Method
-
+Etching Method: Toner Transfer Method  
+Finish Method: I have had good results with this method from painting computer  
+cases but I am unsure how it will work on plexiglass/fiberglass  
+* matte finish for color
+* glossy coat for finial
+Logos will be etched in copper then protected when color is being added  
+Gloss will then cover the logo
+Sand Corners to slightly round the board
 
 Schedule
 --------
 I have not developed a circut board from start to finish without help before so  
-I am unsure on how long it will take
+I am unsure on how long it will take  
 
 * Design schematic for the clock
 * Design code for the clock
+* Test methods of finishing (gloss spraypaint, epoxy, dyes) on circut plexiglass/fiberglass
 * Obtain parts
-* Laser cut opensource sticker images to prevent finish from 
+* Laser cut opensource sticker images to prevent finish from covering etched copper 
 * Get Photopaper
+* Etch circut board
+* Apply Chosen Finish method to front of board
+* Solder board
+* Testing phase for code
+* Apply chosen finish method to back of board
+* Done
 
 Features
 --------
