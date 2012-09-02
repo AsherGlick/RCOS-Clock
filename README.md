@@ -42,7 +42,7 @@ Wall powered with a long brightly colored power adapter (guess what color)
 Opensource + Open hardware logos
 Five visible digits (00:00.0)
 Green/Red bicolor LEDs
-Large enough to be seen from the other side of the room (~10m should be good)
+Large enough to be seen from the other side of the room (~11m should be good)
 Buttons!  
 
 Name       | Function  
